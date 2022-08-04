@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmazonInterview/AmazonInterview.iml" filepath="$PROJECT_DIR$/AmazonInterview/AmazonInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asymptotic Notation/Asymptotic Notation.iml" filepath="$PROJECT_DIR$/Asymptotic Notation/Asymptotic Notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Data Structures.iml" filepath="$PROJECT_DIR$/Data Structures/Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Daily.iml" filepath="$PROJECT_DIR$/.idea/Java Daily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random/Random.iml" filepath="$PROJECT_DIR$/Random/Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
+    </modules>
+  </component>
+</project>
